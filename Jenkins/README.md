@@ -1,4 +1,10 @@
-NULL RESOURCE - LINK: https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource
+MODULE - Creating MODULE: https://www.terraform.io/docs/modules/index.html
+
+NULL RESOURCE https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource
+
+PROVIDER: https://www.terraform.io/docs/configuration/providers.html
+
+VARIABLE.tf: https://upcloud.com/community/tutorials/terraform-variables/
 
 
 On this folder you can find how to install Jenkins through terraform!
